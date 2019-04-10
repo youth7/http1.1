@@ -1,0 +1,22 @@
+{
+  "name": "http1.1",
+  "version": "1.0.0",
+  "description": "http server implemented by Node.js",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youth7/http1.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youth7/http1.1/issues"
+  },
+  "homepage": "https://github.com/youth7/http1.1#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
