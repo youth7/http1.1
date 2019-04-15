@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/youth7/http1.1#readme",
   "devDependencies": {
-    "eslint": "^5.15.3"
   }
 }
